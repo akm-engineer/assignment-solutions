@@ -3,7 +3,7 @@ import house from "../images/house-searching.png";
 
 const Inquiry = () => {
   return (
-    <div className="container mx-auto text-center mb-8 px-4 mt-10 lg:mt-15">
+    <div className="container mx-auto text-center  mb-8 px-4 mt-10 lg:mt-15">
       <h1 className="text-2xl md:text-4xl font-bold mb-4">
         Driving Property Inquiries to Conversions
       </h1>
@@ -19,10 +19,10 @@ const Inquiry = () => {
           />
         </div>
         <div className="lg:w-3/5 lg:ml-8 whitespace-normal">
-          <h2 className="text-lg md:text-3xl lg:text-3xl font-bold mb-4 mt-8">
+          <h2 className="text-lg md:text-3xl lg:text-3xl font-bold mb-4 mt-8 lg:text-left">
             Optimized Path to Property Purchase
           </h2>
-          <h5 className="text-sm md:text-lg lg:text-xl font-signature font-normal mb-4">
+          <h5 className="text-sm md:text-lg lg:text-xl font-signature font-normal mb-4 lg:text-left">
             In the dynamic realm of real estate, the journey from a property
             inquiry to a successful conversion demands a well-crafted approach.
             At Osumare, we specialize in guiding potential buyers through this
