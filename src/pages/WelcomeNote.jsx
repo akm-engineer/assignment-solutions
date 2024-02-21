@@ -4,7 +4,7 @@ import "../App.css";
 
 const WelcomeNote = () => {
   return (
-    <div className="maindeck flex justify-center items-center flex-col mt-12 md:mt-32 flex-wrap">
+    <div className="maindeck flex justify-center items-center flex-col mt-20   md:mt-32 flex-wrap">
       <div className="flex justify-center items-center flex-col">
         <div className="">
           <h1 className="font-bold text-2xl md:text-4xl leading-10 md:leading-72 text-center mt-4 md:mt-10">
