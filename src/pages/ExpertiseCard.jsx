@@ -7,7 +7,7 @@ const ExpertiseCard = ({ image, title, description }) => {
       <div className="flex flex-col md:flex-row items-center justify-center mb-4 mt-15">
         <img
           src={image}
-          alt="title"
+          alt="Title"
           className="w-[100px] h-[100px] md:w-[190px] md:h-[190px] rounded-full bg-gray-200"
         />
       </div>
