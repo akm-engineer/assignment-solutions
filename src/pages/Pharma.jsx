@@ -19,7 +19,7 @@ const Pharma = () => {
           Driving Transformations, One Brand at a Time
         </h4>
       </div>
-      <div className="w-full lg:w-[1117px] bg-white rounded-lg shadow-lg p-8 md:p-50  md:pb-50 pl-8 lg:pl-44 pr-8 lg:pr-44 flex flex-col  lg:flex-row items-center relative  z-[-1]">
+      <div className="w-full  bg-white rounded-lg shadow-lg p-8 md:p-50  md:pb-50 pl-8 lg:pl-44 pr-8 lg:pr-44 flex flex-col  lg:flex-row items-center relative  z-[-1]">
         {/* Video Image */}
         <img
           src={video}
