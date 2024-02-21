@@ -16,7 +16,7 @@ const Extra = () => {
               className="w-full md:w-96 h-auto"
             />
           </div>
-          <div className="lg:w-1/2 flex flex-col md:items-start items-center flex-wrap">
+          <div className="lg:w-1/2 flex flex-col lg:items-start items-center flex-wrap">
             <h2 className="text-center lg:text-left mb-4 text-lg md:text-2xl font-bold ">
               Unlock the Potential of Digital Real Estate Excellence
             </h2>
