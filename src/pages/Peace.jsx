@@ -2,7 +2,7 @@ import React from "react";
 
 const Peace = () => {
   return (
-    <div className="flex justify-center items-center relative z-10">
+    <div className="flex justify-center items-center relative z-[-1]">
       <div className="max-w-[779px] text-center mb-8 px-4">
         <div>
           <h1 className="text-3xl md:text-5xl font-bold mb-4">
