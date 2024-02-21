@@ -36,7 +36,7 @@ const Navbar = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4">
-        <div className="flex justify-between items-center py-4">
+        <div className="flex justify-between items-center py-2 md:py-4">
           <div>
             <Link to="/">
               <img src={logo} className="w-30 h-16" alt="Logo" />
