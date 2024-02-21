@@ -19,12 +19,12 @@ const Pharma = () => {
           Driving Transformations, One Brand at a Time
         </h4>
       </div>
-      <div className="w-full lg:w-[1117px] bg-white rounded-lg shadow-lg p-8 md:p-50  md:pb-50 pl-8 lg:pl-44 pr-8 lg:pr-44 flex flex-col  lg:flex-row items-center relative bg-opacity-0">
+      <div className="w-full lg:w-[1117px] bg-white rounded-lg shadow-lg p-8 md:p-50  md:pb-50 pl-8 lg:pl-44 pr-8 lg:pr-44 flex flex-col  lg:flex-row items-center relative  z-[-1]">
         {/* Video Image */}
         <img
           src={video}
           alt=""
-          className="w-full md:w-[600px] h-auto md:h-[400px] rounded-md mb-6 md:mb-0 hover:opacity-75 transition-opacity duration-300 cursor-pointer "
+          className="w-full  md:w-[600px] h-auto md:h-[400px] rounded-md mb-6 md:mb-0 hover:opacity-75 transition-opacity duration-300 cursor-pointer "
         />
         {/* Testimonial Details */}
         <div className="lg:ml-8 mt-8 lg:mt-0 flex flex-col lg:items-start lg:justify-center ">
@@ -33,7 +33,7 @@ const Pharma = () => {
               <img
                 src={avatar}
                 alt=""
-                className="w-8 h-8 md:w-auto md:h-auto"
+                className="w-8 h-8 md:w-auto md:h-auto "
               />
               <h5 className="font-semibold text-xs md:text-sm">Tabish Khan</h5>
             </div>
