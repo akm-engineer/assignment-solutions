@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 const ExpertiseCard = ({ image, title, description }) => {
   return (
-    <div className="max-w-[500px] mx-auto text-center bg-white rounded-lg p-8 w-[50%] lg:w-[621px] h-[463px]">
+    <div className="max-w-[500px] mx-auto text-center bg-white rounded-lg p-8 w-[50%] lg:w-[621px]">
       <div className="flex flex-col md:flex-row items-center justify-center mb-4 mt-15">
         <img
           src={image}
